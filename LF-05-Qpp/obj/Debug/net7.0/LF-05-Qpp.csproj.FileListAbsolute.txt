@@ -1,0 +1,14 @@
+c:\Users\Jannik.Wiest\Documents\VSProjects\LF-05-SichtenVonCSVDatein\LF-05-Qpp\bin\Debug\net7.0\LF-05-Qpp.exe
+c:\Users\Jannik.Wiest\Documents\VSProjects\LF-05-SichtenVonCSVDatein\LF-05-Qpp\bin\Debug\net7.0\LF-05-Qpp.deps.json
+c:\Users\Jannik.Wiest\Documents\VSProjects\LF-05-SichtenVonCSVDatein\LF-05-Qpp\bin\Debug\net7.0\LF-05-Qpp.runtimeconfig.json
+c:\Users\Jannik.Wiest\Documents\VSProjects\LF-05-SichtenVonCSVDatein\LF-05-Qpp\bin\Debug\net7.0\LF-05-Qpp.dll
+c:\Users\Jannik.Wiest\Documents\VSProjects\LF-05-SichtenVonCSVDatein\LF-05-Qpp\bin\Debug\net7.0\LF-05-Qpp.pdb
+c:\Users\Jannik.Wiest\Documents\VSProjects\LF-05-SichtenVonCSVDatein\LF-05-Qpp\obj\Debug\net7.0\LF-05-Qpp.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Jannik.Wiest\Documents\VSProjects\LF-05-SichtenVonCSVDatein\LF-05-Qpp\obj\Debug\net7.0\LF-05-Qpp.AssemblyInfoInputs.cache
+c:\Users\Jannik.Wiest\Documents\VSProjects\LF-05-SichtenVonCSVDatein\LF-05-Qpp\obj\Debug\net7.0\LF-05-Qpp.AssemblyInfo.cs
+c:\Users\Jannik.Wiest\Documents\VSProjects\LF-05-SichtenVonCSVDatein\LF-05-Qpp\obj\Debug\net7.0\LF-05-Qpp.csproj.CoreCompileInputs.cache
+c:\Users\Jannik.Wiest\Documents\VSProjects\LF-05-SichtenVonCSVDatein\LF-05-Qpp\obj\Debug\net7.0\LF-05-Qpp.dll
+c:\Users\Jannik.Wiest\Documents\VSProjects\LF-05-SichtenVonCSVDatein\LF-05-Qpp\obj\Debug\net7.0\refint\LF-05-Qpp.dll
+c:\Users\Jannik.Wiest\Documents\VSProjects\LF-05-SichtenVonCSVDatein\LF-05-Qpp\obj\Debug\net7.0\LF-05-Qpp.pdb
+c:\Users\Jannik.Wiest\Documents\VSProjects\LF-05-SichtenVonCSVDatein\LF-05-Qpp\obj\Debug\net7.0\LF-05-Qpp.genruntimeconfig.cache
+c:\Users\Jannik.Wiest\Documents\VSProjects\LF-05-SichtenVonCSVDatein\LF-05-Qpp\obj\Debug\net7.0\ref\LF-05-Qpp.dll
