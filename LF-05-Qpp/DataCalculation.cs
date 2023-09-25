@@ -3,8 +3,9 @@ using System.Collections.Generic;
 using System.Globalization;
 using System.IO;
 using System.Linq;
+//Import verschiedener Librarys
 
-namespace CO2_Daten_Analyse
+namespace CO2_Daten_Analyse //namespace deklarierung um den inhalt auch in anderes klassen/datein importieren zu können
 {
     class DataCalculation
     {
